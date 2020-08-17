@@ -1,6 +1,9 @@
 # EvoNet
 This project implements the Evolutionary State Graph Neural Network proposed in [1], which is a GNN-based method for time series analysis.
 
+## Supplementary material
+https://github.com/une666/AnonRepo/blob/master/appendix.pdf
+
 ## Compatibility
 
 Code is compatible with tensorflow version 1.2.0 and Pyhton 3.6.2.
